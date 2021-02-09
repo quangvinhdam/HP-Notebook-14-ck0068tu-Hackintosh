@@ -1,4 +1,4 @@
-# HP-Notebook-14-ck0068tu-Hackintosh-Mojave
+# HP-Notebook-14-ck0068tu-Hackintosh-Bigsur
 
 # Specs:
 - Microprocessor: Intel® Core™ i3-7020U (2.3 GHz, 3 MB cache, 2 cores)
