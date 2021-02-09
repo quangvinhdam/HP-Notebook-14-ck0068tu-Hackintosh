@@ -22,6 +22,6 @@
 - HDMI Port
 - All Port USB
 
-# What doesn't work:
+# Not Working:
 - Airdrop
 - SDcard port
