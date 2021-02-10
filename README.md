@@ -20,7 +20,7 @@
 - Volumes key
 - Touchpad
 - HDMI Port
-- All Port USB
+- All USB Ports
 
 # Not Working:
 - Airdrop
